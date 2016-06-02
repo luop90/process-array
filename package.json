@@ -1,0 +1,14 @@
+{
+  "name": "process-array",
+  "version": "1.0.0",
+  "description": "A module to asynchronously loop through an array",
+  "author": "luop90",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luop90/process-array"
+  },
+  "dependencies": {
+
+  }
+}
